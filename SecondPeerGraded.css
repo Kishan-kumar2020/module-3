@@ -17,7 +17,7 @@
 	margin-bottom: 0px;
 	line-height: .2;
 	background-color: #fb18ff;
-    color: #00ffd0;
+   	color: #00ffd0;
 		
 	}
 	
@@ -51,7 +51,8 @@
 	.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
     
 	color: yellow;
-    background-color: #E65FB9;
+    	background-color: #E65FB9;
+	text-align: center;
 	
 	}
 	
@@ -97,6 +98,8 @@
 	color: green;
 	text-align: center;
 	padding: 60px 40px 40px 40px;
+	margin-left: 38%;
+    	margin-top: 2px;
 		
 	}
 		
@@ -244,6 +247,8 @@
 	font-size: 40px;
 	text-align: center;
 	padding: 60px 40px 40px 40px;
+		margin-left: 38%;
+    	margin-top: 2px;
 		
 	}
 		
@@ -389,6 +394,8 @@
 	font-size: 40px;
 	text-align: center;
 	padding: 60px 40px 40px 40px;
+		margin-left: 38%;
+    	margin-top: 2px;
 		
 	}
 		
