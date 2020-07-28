@@ -1,0 +1,26 @@
+body{
+	
+background-color: pink;	
+	
+}
+
+p{
+	
+font-style: italic;
+text-align: center;
+	
+}
+
+span{
+
+font-weight: bold;
+text-decoration: underline;
+
+}
+
+button{
+	
+text-decoration: none;
+text-align: center;	
+	
+}
